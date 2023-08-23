@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(252, 240, 242);
+}
+
+#principal{
+    color:rgb(245, 129, 149);
+    width: 90%;
+    margin: 0 25 %;
+    text-align: center;
+}
+
+#menu{
+    color: rgb(245, 129, 149);
+
+}
+
+img{
+    width: 90%;
+}
